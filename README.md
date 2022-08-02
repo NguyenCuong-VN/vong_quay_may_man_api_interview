@@ -5,7 +5,7 @@
 ### Stack
 
 #### BE
-- I use `Express` with `NodeJs` to build package 
+- I use `Express` on `NodeJs` to build server
 - Environment `NodeJs v16.13.1` 
 - I use `Heroku` for server
 - I use free service of `MongoDB` for database
@@ -18,7 +18,7 @@ Link repo: [this project](https://github.com/NguyenCuong-VN/vong_quay_may_man_ap
 
 #### Note
 - Because using free services, all api & data may be slower than normal.
--I deploy the BE code to the `heroku` server (I don't have a real server available now). So the website can load slowly on the first time you visit.
+- I deploy the BE code to the `heroku` server (I don't have a real server available now). So the website can load slowly on the first time you visit.
 
 -------------------------------------------------------------
 
@@ -82,13 +82,6 @@ or use **user1/pwd1** instead.
 >```
 >https://vong-quay-may-man-api.herokuapp.com/v1/api/history
 >```
-###### Body (**raw**)
-
-```json
-{
-    "name": "test"
-}
-```
 
 -------------------------------------------------------------
 
